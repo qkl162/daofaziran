@@ -1,4 +1,4 @@
-# 符箓 · FuLu
+# 道法自然 · FuLu
 
 > A cultivation-themed (修仙) talisman & formation mod for **Minecraft 1.20.1 · Forge 47.x**
 >
@@ -77,6 +77,10 @@ Output: `build/libs/fulu-1.0.0.jar`
 > `libs/geckolib-forge-1.20.1-4.4.9-deobf.jar` (declared in `build.gradle`).
 > Keep it in place, or replace the dependency with the Maven coordinate
 > `software.bernie.geckolib:geckolib-forge-1.20.1:4.4.9`.
+
+## Download
+
+Grab the latest jar from [Releases](https://github.com/qkl162/daofaziran/releases).
 
 ## Install
 
