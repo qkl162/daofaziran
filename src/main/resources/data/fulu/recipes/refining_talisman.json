@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "SBX",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "S": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "X": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:refining_talisman",
+    "count": 1
+  }
+}

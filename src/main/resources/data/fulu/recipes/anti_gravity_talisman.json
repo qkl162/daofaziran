@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "HBA",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "H": {
+      "item": "minecraft:shulker_shell"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:anti_gravity_talisman",
+    "count": 1
+  }
+}

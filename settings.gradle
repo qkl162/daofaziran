@@ -1,0 +1,12 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        maven { name = 'MinecraftForge'; url = 'https://maven.minecraftforge.net/' }
+        maven { name = 'Sponge'; url = 'https://repo.spongepowered.org/repository/maven-public/' }
+    }
+}
+
+// 不使用 org.gradle.toolchains.foojay-resolver-convention：
+// 它会额外从插件门户解析一个插件，是纯粹多余的网络故障点。
+// 本工程通过 tools/java-home.txt（由 build.ps1 读取）指定 JDK。
+rootProject.name = 'fulu'

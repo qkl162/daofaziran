@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "BBS",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "S": {
+      "item": "minecraft:soul_sand"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:summon_talisman",
+    "count": 1
+  }
+}

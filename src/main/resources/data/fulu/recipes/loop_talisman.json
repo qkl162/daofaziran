@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "EBS",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "E": {
+      "item": "minecraft:ender_pearl"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "S": {
+      "item": "minecraft:chorus_fruit"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:loop_talisman",
+    "count": 1
+  }
+}

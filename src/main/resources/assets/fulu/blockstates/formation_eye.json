@@ -1,0 +1,46 @@
+{
+  "variants": {
+    "talisman=empty": {
+      "model": "fulu:block/formation_eye"
+    },
+    "talisman=chaos": {
+      "model": "fulu:block/formation_eye_talisman"
+    },
+    "talisman=sword": {
+      "model": "fulu:block/formation_eye_sword"
+    },
+    "talisman=antigravity": {
+      "model": "fulu:block/formation_eye_antigravity"
+    },
+    "talisman=stand_in": {
+      "model": "fulu:block/formation_eye_stand_in"
+    },
+    "talisman=shift_blame": {
+      "model": "fulu:block/formation_eye_shift_blame"
+    },
+    "talisman=summon": {
+      "model": "fulu:block/formation_eye_summon"
+    },
+    "talisman=slippery": {
+      "model": "fulu:block/formation_eye_slippery"
+    },
+    "talisman=blind": {
+      "model": "fulu:block/formation_eye_blind"
+    },
+    "talisman=loop": {
+      "model": "fulu:block/formation_eye_loop"
+    },
+    "talisman=distance": {
+      "model": "fulu:block/formation_eye_distance"
+    },
+    "talisman=ink": {
+      "model": "fulu:block/formation_eye_ink"
+    },
+    "talisman=time_slow": {
+      "model": "fulu:block/formation_eye_time_slow"
+    },
+    "talisman=refining": {
+      "model": "fulu:block/formation_eye_refining"
+    }
+  }
+}

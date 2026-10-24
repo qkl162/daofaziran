@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "IBS",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "I": {
+      "item": "minecraft:ink_sac"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "S": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:blind_talisman",
+    "count": 1
+  }
+}

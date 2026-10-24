@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "BSA",
+    " C "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "S": {
+      "item": "minecraft:iron_sword"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:flying_sword_talisman",
+    "count": 1
+  }
+}

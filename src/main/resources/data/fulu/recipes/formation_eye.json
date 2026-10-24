@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BIB",
+    "ICI",
+    "BIB"
+  ],
+  "key": {
+    "B": {
+      "item": "fulu:formation_base"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    }
+  },
+  "result": {
+    "item": "fulu:formation_eye",
+    "count": 1
+  }
+}

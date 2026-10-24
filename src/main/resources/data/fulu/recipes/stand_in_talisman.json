@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "CHB",
+    " A "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    },
+    "H": {
+      "item": "minecraft:hay_block"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    },
+    "A": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "item": "fulu:stand_in_talisman",
+    "count": 1
+  }
+}

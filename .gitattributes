@@ -1,0 +1,14 @@
+# 统一换行符：仓库里用 LF，Windows 工作区也按 LF 存
+* text=auto eol=lf
+
+# 脚本
+*.sh   text eol=lf
+*.bat  text eol=crlf
+*.ps1  text eol=crlf
+
+# 二进制
+*.jar  binary
+*.png  binary
+*.ogg  binary
+*.zip  binary
+*.bbmodel binary

@@ -1,0 +1,8 @@
+# tools/python-home.txt
+# One interpreter path per line, UTF-8. Read by tools/verify_tick.ps1 for the
+# region-file check (tools/check_region.py).
+#
+# Why a file instead of searching PATH: same reason as tools/java-home.txt -
+# the path may contain non-ASCII characters, and a plain UTF-8 text file is the
+# one thing every layer here agrees on. Lines starting with # are ignored.
+D:\软件\DSH Desktop\resources\office-runtime\primary-runtime\dependencies\python\python.exe

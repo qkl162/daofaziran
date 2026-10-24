@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "CFM",
+    " B "
+  ],
+  "key": {
+    "P": {
+      "item": "fulu:talisman_paper"
+    },
+    "C": {
+      "item": "fulu:cinnabar"
+    },
+    "F": {
+      "item": "minecraft:fermented_spider_eye"
+    },
+    "M": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "B": {
+      "item": "fulu:beast_blood"
+    }
+  },
+  "result": {
+    "item": "fulu:chaos_talisman",
+    "count": 1
+  }
+}

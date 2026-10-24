@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fulu:block/formation_base"
+    }
+  }
+}

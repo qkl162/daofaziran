@@ -1,0 +1,7 @@
+# tools/java-home.txt
+# 这个文件是 tools/build.ps1 读取的 JDK 路径，一行，UTF-8。
+# 为什么单独放一个文件、而不写进 gradle.properties：
+#   Properties 文件按 ISO-8859-1 解析，中文路径会变成乱码；
+#   而 .ps1 脚本自己有编码问题（中文注释需要 BOM）。
+#   放成一个纯 UTF-8 文本文件，两边都不会踩坑。
+D:\软件\我的世界\Java21

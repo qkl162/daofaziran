@@ -1,0 +1,40 @@
+# Gradle
+build/
+.gradle/
+!tools/.gradle-home/
+
+# 本地离线工具链（体积大，不进版本库）
+tools/.toolchain/
+tools/.gradle-home/
+
+# 运行目录（runClient 会在这里生成存档、日志、崩溃报告）
+run/
+run-data/
+
+# 生成物预览 / 网上找的参考图
+tools/out/
+tools/ref/
+tools/__pycache__/
+__pycache__/
+
+# IDEA / Eclipse
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+bin/
+out/
+
+# 系统
+Thumbs.db
+desktop.ini
+*.log
+
+# 发布的 jar（用 GitHub Releases 上传）
+dist/
+
+# 参考图 / 素材来源（体积大）
+ref/

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:book"
+    },
+    {
+      "item": "fulu:cinnabar"
+    },
+    {
+      "item": "fulu:talisman_paper"
+    }
+  ],
+  "result": {
+    "item": "fulu:formation_codex",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fulu:block/formation_eye_antigravity"
+  }
+}
